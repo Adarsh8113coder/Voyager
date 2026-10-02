@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/admin/adminapp.tsx","./src/admin/crudtable.tsx","./src/components/authpanel.tsx","./src/components/packagespanel.tsx","./src/components/travelglobe.tsx","./src/lib/api.ts","./src/lib/auth.tsx","./src/lib/data.ts","./src/utils/geo.ts","./src/utils/packages.ts"],"version":"5.9.3"}
