@@ -1,4 +1,4 @@
-# Travel Globe
+# Voyager
 
 An interactive 3D globe (React + TypeScript + React Three Fiber) that shows the cities
 you've visited, lets you pick an origin and destination, and shows estimated flight
